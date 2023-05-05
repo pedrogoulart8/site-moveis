@@ -1,3 +1,3 @@
-##Projeto simulando um site de venda de móveis rústicos 
+## Projeto simulando um site de venda de móveis rústicos 
 
-###Tecnologias utilizadas: HTML, CSS, JavaScript
+### Tecnologias utilizadas: HTML, CSS, JavaScript
